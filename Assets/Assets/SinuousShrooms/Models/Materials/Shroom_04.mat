@@ -91,7 +91,7 @@ Material:
     - _Underglow: 0.088
     - _ZWrite: 1
     m_Colors:
-    - _BaseColor1: {r: 0.5209775, g: 0.9705882, b: 0.5426829, a: 1}
+    - _BaseColor1: {r: 0, g: 0.7924528, b: 0.034756757, a: 1}
     - _BaseColor2: {r: 0, g: 0.5448277, b: 1, a: 0.559}
     - _BottomColor: {r: 0.5808823, g: 0.6704868, b: 1, a: 1}
     - _CapColor: {r: 0.50735295, g: 0.6534483, b: 1, a: 0.359}
